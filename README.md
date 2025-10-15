@@ -1,2 +1,2 @@
 # splatkey
-custom split keyboard
+custom split mechanical keyboard
